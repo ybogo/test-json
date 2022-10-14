@@ -1,0 +1,7 @@
+{
+    "name": "my-test-json",
+    "version": "0.0.1",
+    "dependencies": [
+        "rapidjson"
+    ]
+}
